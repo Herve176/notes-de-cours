@@ -1,9 +1,9 @@
-# [Nom du cours] - [Date]
+# work mindset- 2025.02.23
 
 ## Sujets Principaux
 
-- Sujet 1
-- Sujet 2
+- apprendre a apprendre
+- Travaill le mindset
 
 ## Points Clés
 
